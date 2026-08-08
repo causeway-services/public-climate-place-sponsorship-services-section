@@ -1,5 +1,5 @@
 {
-  "name": "@emsweb/climate-place-sponsorship-enterprise",
+  "name": "@causeway-services/climate-place-sponsorship-service",
   "version": "0.1.2",
   "private": true,
   "type": "module",

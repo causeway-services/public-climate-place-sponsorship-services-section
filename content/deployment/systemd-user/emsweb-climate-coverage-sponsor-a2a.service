@@ -3,9 +3,9 @@ Description=Turntide Islands climate coverage bid portfolio A2A service
 After=network.target
 [Service]
 Type=simple
-WorkingDirectory=/home/emsenn/info/lib/emsenn/services/561-group/services/rsc-quiescent/services/emsweb/services/climate-place-sponsorship-enterprise
+WorkingDirectory=/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-ecological-services-section/services/public-climate-services-section/services/climate-place-sponsorship-service
 ExecStart=/home/emsenn/.config/nvm/versions/node/v24.13.1/bin/node src/serve-delivery-a2a.mjs
-Environment=CLIMATE_SPONSOR_DATA_ROOT=/home/emsenn/info/lib/emsenn/services/561-group/services/rsc-quiescent/services/emsweb/services/climate-place-sponsorship-enterprise/data
+Environment=CLIMATE_SPONSOR_DATA_ROOT=/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-ecological-services-section/services/public-climate-services-section/services/climate-place-sponsorship-service/data
 Environment=CLIMATE_SPONSOR_SETTLEMENT_ACCOUNT=eip155:31337:0xda5b19d1e006f45fe28c3ff7cfd7991bebcaeab4
 Environment=WITNESS_JOURNAL_RDF_AGENT=http://127.0.0.1:19764/.well-known/agent-card.json
 Restart=on-failure
@@ -14,7 +14,7 @@ NoNewPrivileges=true
 PrivateTmp=true
 ProtectSystem=strict
 ProtectHome=read-only
-ReadWritePaths=/home/emsenn/info/lib/emsenn/services/561-group/services/rsc-quiescent/services/emsweb/services/climate-place-sponsorship-enterprise/data
+ReadWritePaths=/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-ecological-services-section/services/public-climate-services-section/services/climate-place-sponsorship-service/data
 RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
 UMask=0077
 [Install]
