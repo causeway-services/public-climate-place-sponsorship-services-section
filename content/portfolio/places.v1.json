@@ -1,0 +1,25 @@
+{
+  "type": "ClimateCoverageSponsorshipPortfolio",
+  "version": 1,
+  "status": "active-private-pilot",
+  "accountingUnit": "USD-micros",
+  "researchBudgetMicros": 500000,
+  "historyStartYear": 1981,
+  "forecastHorizonYear": 2050,
+  "places": [
+    {"id":"wikidata:Q1297","kind":"city","name":"Chicago","region":"Illinois","countryCode":"US","latitudeE6":41881000,"longitudeE6":-87630000,"timezone":"America/Chicago","coverageBidMicros":900000},
+    {"id":"wikidata:Q8652","kind":"city","name":"Miami","region":"Florida","countryCode":"US","latitudeE6":25762000,"longitudeE6":-80192000,"timezone":"America/New_York","coverageBidMicros":890000},
+    {"id":"wikidata:Q16556","kind":"city","name":"Phoenix","region":"Arizona","countryCode":"US","latitudeE6":33448000,"longitudeE6":-112074000,"timezone":"America/Phoenix","coverageBidMicros":880000},
+    {"id":"wikidata:Q34404","kind":"city","name":"New Orleans","region":"Louisiana","countryCode":"US","latitudeE6":29950000,"longitudeE6":-90072000,"timezone":"America/Chicago","coverageBidMicros":870000},
+    {"id":"wikidata:Q60","kind":"city","name":"New York City","region":"New York","countryCode":"US","latitudeE6":40713000,"longitudeE6":-74006000,"timezone":"America/New_York","coverageBidMicros":860000},
+    {"id":"wikidata:Q5083","kind":"city","name":"Seattle","region":"Washington","countryCode":"US","latitudeE6":47606000,"longitudeE6":-122332000,"timezone":"America/Los_Angeles","coverageBidMicros":850000},
+    {"id":"wikidata:Q36091","kind":"city","name":"Minneapolis","region":"Minnesota","countryCode":"US","latitudeE6":44978000,"longitudeE6":-93265000,"timezone":"America/Chicago","coverageBidMicros":840000},
+    {"id":"wikidata:Q16555","kind":"city","name":"Houston","region":"Texas","countryCode":"US","latitudeE6":29760000,"longitudeE6":-95370000,"timezone":"America/Chicago","coverageBidMicros":830000},
+    {"id":"wikidata:Q65","kind":"city","name":"Los Angeles","region":"California","countryCode":"US","latitudeE6":34052000,"longitudeE6":-118244000,"timezone":"America/Los_Angeles","coverageBidMicros":820000},
+    {"id":"wikidata:Q16554","kind":"city","name":"Denver","region":"Colorado","countryCode":"US","latitudeE6":39739000,"longitudeE6":-104990000,"timezone":"America/Denver","coverageBidMicros":810000},
+    {"id":"wikidata:Q100","kind":"city","name":"Boston","region":"Massachusetts","countryCode":"US","latitudeE6":42360000,"longitudeE6":-71059000,"timezone":"America/New_York","coverageBidMicros":800000},
+    {"id":"wikidata:Q23556","kind":"city","name":"Atlanta","region":"Georgia","countryCode":"US","latitudeE6":33749000,"longitudeE6":-84388000,"timezone":"America/New_York","coverageBidMicros":790000},
+    {"id":"wikidata:Q41819","kind":"city","name":"Kansas City","region":"Missouri","countryCode":"US","latitudeE6":39099000,"longitudeE6":-94578000,"timezone":"America/Chicago","coverageBidMicros":780000},
+    {"id":"wikidata:Q39450","kind":"city","name":"Anchorage","region":"Alaska","countryCode":"US","latitudeE6":61218000,"longitudeE6":-149900000,"timezone":"America/Anchorage","coverageBidMicros":770000}
+  ]
+}
