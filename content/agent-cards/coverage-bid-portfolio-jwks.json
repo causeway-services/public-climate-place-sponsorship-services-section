@@ -1,1 +1,1 @@
-{"keys":[{"crv":"Ed25519","x":"df01tZ8RX7-dHLkJMfgDCHe_ybeDCqDn-Q1Y5-J17Kc","kty":"OKP","kid":"climate-coverage-sponsor-ed25519","use":"sig","alg":"EdDSA"}]}
+{"keys":[{"crv":"Ed25519","x":"588qBSAdBXxqeP3Bs2XVlYobwoF4bPXnCFSmwboG-Lg","kty":"OKP","kid":"climate-coverage-sponsor-ed25519-2026-10-21","use":"sig","alg":"EdDSA"}]}
