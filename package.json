@@ -17,5 +17,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/causeway-services/climate-place-sponsorship-service.git"
+  },
+  "license": "Apache-2.0",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
